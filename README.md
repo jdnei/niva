@@ -7,7 +7,12 @@ NIVA Network机场官网地址</br>
 ```bash
 Bfmlanad
 ```
+----
+
 ![image](https://github.com/jdnei/niva/blob/main/niva/20260721-142450.jpg?raw=ture) 
+
+----
+
 ## 简介
 NIVA Network机场，采用 VLESS + REALITY /Xhttp，Shadowsocks ，隐私至上，无日志保留,售后快速相应，免费技术支持。
 ## 优势
