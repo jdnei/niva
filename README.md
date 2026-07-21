@@ -7,6 +7,7 @@ NIVA Network机场官网地址</br>
 ```bash
 Bfmlanad
 ```
+![image](https://github.com/jdnei/niva/blob/main/niva/20260721-142450.jpg?raw=ture) 
 ## 简介
 NIVA Network机场，采用 VLESS + REALITY /Xhttp，Shadowsocks ，隐私至上，无日志保留,售后快速相应，免费技术支持。
 ## 优势
@@ -23,8 +24,8 @@ NIVA Network机场，采用 VLESS + REALITY /Xhttp，Shadowsocks ，隐私至上
 | 一次性 | 🌠 湛 | 4.88 TB | ¥499/起 | 5000 设备上限 | 5000 Mbps | 剩余 28 |
 ## 📊 性能实测与分析  
 #### 1.晚高峰测速表现  
-![image](?raw=ture)  
+![image](https://github.com/jdnei/niva/blob/main/niva/NIVAWAN456345645645.jpg?raw=ture)  
 #### 2.流媒体解锁报告  
-![image](?raw=ture)    
+![image](https://github.com/jdnei/niva/blob/main/niva/NIVALIU4353R34.png?raw=ture)    
 #### 3.落地入口分析  
-![image](?raw=ture)
+![image](https://github.com/jdnei/niva/blob/main/niva/NIVAXIAN564356456.png?raw=ture)
