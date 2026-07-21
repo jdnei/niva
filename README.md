@@ -44,11 +44,11 @@ NIVA Network机场，采用 VLESS + REALITY /Xhttp，Shadowsocks ，隐私至上
 #### 4.家宽纯净度分析 
 ##### 1.us
 ![image](https://github.com/jdnei/niva/blob/main/niva/IPPure-1784623394644us.png?raw=ture)
-##### 1.mo
+##### 2.mo
 ![image](https://github.com/jdnei/niva/blob/main/niva/IPPure-1784622857247mo.png?raw=ture)
-##### 1.hk
+##### 3.hk
 ![image](https://github.com/jdnei/niva/blob/main/niva/IPPure-1784622635393hk.png?raw=ture)
-##### 1.tw
+##### 4.tw
 ![image](https://github.com/jdnei/niva/blob/main/niva/IPPure-1784622752358tw.png?raw=ture)
-##### 1.au
+##### 5.au
 ![image](https://github.com/jdnei/niva/blob/main/niva/IPPure-1784623485171au.png?raw=ture)
