@@ -1,7 +1,7 @@
 
 # NIVA Network机场官方地址（2026年7月20日更新）
 NIVA Network机场官网地址</br>
-官方地址：[mizuku.net](https://mizuku.net/register?invite_code=Bfmlanad)</br>
+官方地址：[app.mizuku.net](https://app.mizuku.net/register?invite_code=Bfmlanad)</br>
 ## 邀请码
 `此邀请码注册，送2天7G试用套餐（此活动官方随时取消）`
 ```bash
