@@ -50,12 +50,18 @@ NIVA Network机场，采用 VLESS + REALITY /Xhttp，Shadowsocks ，隐私至上
 
 
 ## 📊 性能实测与分析  
-#### 1.晚高峰测速表现  
-![image](https://github.com/jdnei/niva/blob/main/niva/NIVAWAN456345645645.jpg?raw=ture)  
-#### 2.流媒体解锁报告  
-![image](https://github.com/jdnei/niva/blob/main/niva/NIVALIU4353R34.png?raw=ture)    
+#### 1.1电信晚高峰测速表现  
+![image](https://github.com/jdnei/niva/blob/main/niva/348752093570ctcc.jpg?raw=ture)  
+#### 1.2联通晚高峰测速表现  
+![image](https://github.com/jdnei/niva/blob/main/niva/09437528095cucc.jpg?raw=ture)  
+#### 1.3移动晚高峰测速表现  
+![image](https://github.com/jdnei/niva/blob/main/niva/309852094385cmcc.jpg?raw=ture)  
+#### 2.1流媒体解锁报告  
+![image](https://github.com/jdnei/niva/blob/main/niva/04975209584test.png?raw=ture)    
+#### 2.2AI解锁报告  
+![image](https://github.com/jdnei/niva/blob/main/niva/47097230495ai.jpg?raw=ture)  
 #### 3.落地入口分析  
-![image](https://github.com/jdnei/niva/blob/main/niva/NIVAXIAN564356456.png?raw=ture)
+![image](https://github.com/jdnei/niva/blob/main/niva/0943285034098ana.png?raw=ture)
 #### 4.家宽纯净度分析 
 ##### 1.us
 ![image](https://github.com/jdnei/niva/blob/main/niva/IPPure-1784623394644us.png?raw=ture)
