@@ -1,5 +1,5 @@
 
-# NIVA Network机场官方地址(2026年10月26日更新)
+# NIVA Network机场官方地址(2026年10月27日更新)
 NIVA Network机场官网地址</br>
 最新地址01：[app.niva.lol](https://to.iix.im/niva03)</br>
 最新地址02：[app.niva.lol](https://to.iix.im/niva01)</br>
