@@ -22,9 +22,9 @@ Bfmlanad
 
 ----
 ## 优惠码/折扣吗
-`8.5折，国庆假期结束`
+`8.0折，截止日期：11.13`
 ```bash
-NIVA1001
+NIVA2000
 ```
 ## 简介
 NIVA Network机场，采用 VLESS + REALITY /Xhttp，Shadowsocks ，隐私至上，无日志保留,售后快速相应，免费技术支持。
