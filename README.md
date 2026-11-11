@@ -21,7 +21,7 @@ Bfmlanad
 ![image](https://github.com/jdnei/niva/blob/main/niva/20260721-142450.jpg?raw=ture) 
 
 ----
-## 优惠码/折扣吗
+## 优惠码/折扣码
 `8.0折，截止日期：11.13`
 ```bash
 NIVA2000
