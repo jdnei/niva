@@ -30,7 +30,7 @@ NIVA2000
 NIVA Network机场，采用 VLESS + REALITY /Xhttp，Shadowsocks ，隐私至上，无日志保留,售后快速相应，免费技术支持。
 ## 优势
 • 多地区全球稳定节点：🇭🇰 香港 / 🇹🇼 台湾 / 🇯🇵 日本 / 🇸🇬 新加坡 / 🇺🇸 美国 / 🇬🇧 英国，</br>
-• 带有部分家宽🏠节点，[美国家宽](https://github.com/jdnei/niva#1us)、[澳门家宽](https://github.com/jdnei/niva#2mo)、[香港家宽](https://github.com/jdnei/niva#3hk)、[台湾家宽](https://github.com/jdnei/niva#4tw)、[澳大利亚家宽](https://github.com/jdnei/niva#5au)、</br>
+• 带有部分家宽🏠节点，[美国家宽](https://github.com/jdnei/niva#1us)、[澳门家宽](https://github.com/jdnei/niva#2mo)、[香港家宽](https://github.com/jdnei/niva#3hk)、[台湾家宽](https://github.com/jdnei/niva#4tw)、[澳大利亚家宽](https://github.com/jdnei/niva#5au)、[菲利宾家宽](https://github.com/jdnei/niva#6ph)、</br>
 • 三网优化，提升连接稳定性</br>
 • 套餐`澜`一次性等提供额外`专线节点`，适合长期稳定生产力使用</br>
 ## 套餐
@@ -74,3 +74,5 @@ NIVA Network机场，采用 VLESS + REALITY /Xhttp，Shadowsocks ，隐私至上
 ![image](https://github.com/jdnei/niva/blob/main/niva/IPPure-1784622752358tw.png?raw=ture)
 ##### 5.au
 ![image](https://github.com/jdnei/niva/blob/main/niva/IPPure-1784623485171au.png?raw=ture)
+##### 6.ph
+![image](https://github.com/jdnei/niva/blob/main/niva/IPPure-1784622635393ph.jpeg?raw=ture)
