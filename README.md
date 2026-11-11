@@ -1,12 +1,13 @@
 
 # NIVA Network机场官方地址(2026年11月11日更新)
 NIVA Network机场官网地址</br>
+✅含菲律宾家宽（订阅低价AI）
 最新地址01：[app.niva.lol](https://to.iix.im/niva03)</br>
 最新地址02：[app.niva.lol](https://to.iix.im/niva01)</br>
 官方地址：[mizuku.net](https://to.iix.im/niva02)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
-## Telegram VPN 机场福利社 #AD
+## Telegram VPN 机场福利社  #AD
 [机场抽奖群](https://331024.de/archives/choujiang)｜[机场聊天群](https://331024.de/archives/choujiang)｜[机场体验群](https://331024.de/archives/choujiang)</br>
 
 [https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
@@ -29,8 +30,8 @@ NIVA2000
 ## 简介
 NIVA Network机场，采用 VLESS + REALITY /Xhttp，Shadowsocks ，隐私至上，无日志保留,售后快速相应，免费技术支持。
 ## 优势
-• 多地区全球稳定节点：🇭🇰 香港 / 🇹🇼 台湾 / 🇯🇵 日本 / 🇸🇬 新加坡 / 🇺🇸 美国 / 🇬🇧 英国，</br>
-• 带有部分家宽🏠节点，[美国家宽](https://github.com/jdnei/niva#1us)、[澳门家宽](https://github.com/jdnei/niva#2mo)、[香港家宽](https://github.com/jdnei/niva#3hk)、[台湾家宽](https://github.com/jdnei/niva#4tw)、[澳大利亚家宽](https://github.com/jdnei/niva#5au)、[菲利宾家宽](https://github.com/jdnei/niva#6ph)、</br>
+• 多地区全球稳定节点：🇭🇰 香港 / 🇹🇼 台湾 / 🇯🇵 日本 / 🇸🇬 新加坡 / 🇺🇸 美国 / 🇬🇧 英国 / 🇵🇭 菲律宾，</br>
+• 带有部分家宽🏠节点，[美国家宽](https://github.com/jdnei/niva#1us)、[澳门家宽](https://github.com/jdnei/niva#2mo)、[香港家宽](https://github.com/jdnei/niva#3hk)、[台湾家宽](https://github.com/jdnei/niva#4tw)、[澳大利亚家宽](https://github.com/jdnei/niva#5au)、[菲律宾家宽](https://github.com/jdnei/niva#6ph)、</br>
 • 三网优化，提升连接稳定性</br>
 • 套餐`澜`一次性等提供额外`专线节点`，适合长期稳定生产力使用</br>
 ## 套餐
