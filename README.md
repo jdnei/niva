@@ -1,7 +1,7 @@
 
 # NIVA Network机场官方地址(2026年11月11日更新)
 NIVA Network机场官网地址</br>
-✅含菲律宾家宽（订阅低价AI）
+✅含菲律宾家宽（订阅低价AI）</br>
 最新地址01：[app.niva.lol](https://to.iix.im/niva03)</br>
 最新地址02：[app.niva.lol](https://to.iix.im/niva01)</br>
 官方地址：[mizuku.net](https://to.iix.im/niva02)</br>
