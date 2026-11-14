@@ -1,5 +1,5 @@
 
-# NIVA Network机场官方地址(2026年11月13日更新)
+# NIVA Network机场官方地址(2026年11月14日更新)
 NIVA Network机场官网地址</br>
 ✅含菲律宾家宽（订阅低价AI）</br>
 
